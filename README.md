@@ -12,19 +12,12 @@ The main goal of this data science personal projects portfolio is to show my ski
 I studied business admininstration and got my degree from ESPM. After getting my degree, I decided to  study data science, and have been studying it since the beggining of 2021.
 
 
-**Analytical Tools:**
-
-**Data Collect and Storage:** SQL, MySQL, Postgres, DBeaver.
-
-**Data Processing and Analysis:** Python.
-
-**Development:** Git, Scrum. 
-
-**Data Vizualization:** 
-
-**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series, RecSys. 
-
-**Machine Learning Deployment:**   
+* **Data Collection (SQL, MongoDB)**: :star: :star:
+* **Data Processing and Analysis (Python - Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn)**: :star: :star: :star: :star: :star: 
+* **Data Visualization (Power BI)**: :star:
+* **Machine Learning Modeling (Regression, Classification, Clustering)**: :star: :star: :star:
+* **Machine Learning Deployment (Heroku)**: :star: :star:
+* **Development (Git)**: :star: :star: 
 
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brunoschirmer/)
@@ -34,15 +27,20 @@ I studied business admininstration and got my degree from ESPM. After getting my
 ## Data Science Projects:
 
 ### [Rossmman Stores Sales]( https://github.com/brunoschirmer/rossman_stores )
+![](https://www.leadsquared.com/wp-content/uploads/2019/02/banner-4.png)
 
 The hypothetical commercial context that guides the project is basically to meet the request made by the CFO to the managers of each store. The request consisted of the revenue forecasts of the stores for the next six weeks because he wanted to reform the stores and wanted based on the amount of sales after six weeks of the store.
 
+The model was deployed using Heroku and a Telegram bot. To access the Telegram bot, click [here](https://t.me/rossmannstores_bot).
 
-### [Health Insurance Cross-Sell]( https://github.com/brunoschirmer/health_insurance_cross_sell ) 
+
+### [Health Insurance Cross-Sell]( https://github.com/brunoschirmer/health_insurance_cross_sell )
+![](https://neilpatel.com/wp-content/uploads/2019/06/ilustracao-da-palavra-cross-selling-com-mao-desenh.jpeg)
 
 This project aimed to order a potential client list by propensity score, decreasing the cost with calls by reaching to the clients with the highest potential to buy the insurance.
 
 ### [Insiders]( https://github.com/brunoschirmer/insiders_clustering ) 
+![](https://gardencitycenter.com/wp-content/uploads/sites/11/2020/12/InsiderPass-VIP-Feature.jpg)
 
 This project goal is to create a group of clients using clustering models.
 
