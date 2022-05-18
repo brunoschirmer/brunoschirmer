@@ -43,5 +43,6 @@ This project aimed to order a potential client list by propensity score, decreas
 ![](https://gardencitycenter.com/wp-content/uploads/sites/11/2020/12/InsiderPass-VIP-Feature.jpg)
 
 This project goal is to create a group of clients using clustering models.
+It was deployed on AWS, using Papermill to run the notebook and saving the dataset with clusters on a S3 bucket linked to Metabase for visualization
 
 ### [Next Project]( link ) 
