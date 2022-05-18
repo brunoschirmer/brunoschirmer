@@ -12,12 +12,12 @@ The main goal of this data science personal projects portfolio is to show my ski
 I studied business admininstration and got my degree from ESPM. After getting my degree, I decided to  study data science, and have been studying it since the beggining of 2021.
 
 
-* **Data Collection (SQL, MongoDB)**: :star: :star:
+* **Data Collection (SQL, DBeaver)**: :star: :star:
 * **Data Processing and Analysis (Python - Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn)**: :star: :star: :star: :star: :star: 
-* **Data Visualization (Power BI)**: :star:
+* **Data Visualization (Metabase)**: :star:
 * **Machine Learning Modeling (Regression, Classification, Clustering)**: :star: :star: :star:
-* **Machine Learning Deployment (Heroku)**: :star: :star:
-* **Development (Git)**: :star: :star: 
+* **Machine Learning Deployment (Heroku, AWS )**: :star: :star: :star:
+* **Development (Git)**: :star: :star: :star:
 
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brunoschirmer/)
