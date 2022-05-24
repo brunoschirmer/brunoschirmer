@@ -1,4 +1,4 @@
-# Bruno Schirmer DS Portfolio
+# Bruno Schirmer Data Science Portfolio
 
 The main goal of this data science personal projects portfolio is to show my skills in solving business challenges through my knowledge and tools of Data Science.
 
