@@ -46,7 +46,7 @@ This project aims is to create a group of clients using clustering models.
 It was deployed on AWS, using Papermill to run the notebook and saving the dataset with clusters on a S3 bucket linked to Metabase for visualization
 
 ### [Payment Method Analysis with A/B Testing - ONGOING](https://github.com/brunoschirmer/ab_testing ) 
-![] (https://qualaroo.com/app/uploads/2019/08/ab@2x.png)
+![]](https://qualaroo.com/app/uploads/2019/08/ab@2x.png)
 
 Currently working on this project. The development team created a payment method solution that autofills the clients data when making an order, and now, before lauching the new method into production, the operations team wishes to know if there actually is a difference between the two payments method. In other words, they want to know if the new payment method is driving a higher revenue. To better understand it, I am going to make an analysis using A/B testing principals to check if, and by how much, there is a difference in the amount spent by the customers based on the payment method they are set to use.
 
