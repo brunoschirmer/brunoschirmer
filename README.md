@@ -27,7 +27,7 @@ I studied business admininstration and got my degree from ESPM. After getting my
 ## Data Science Projects:
 
 ### [Rossmman Stores Sales]( https://github.com/brunoschirmer/rossman_stores )
-![](https://miro.medium.com/max/1400/1*DOdk_KV7OU-vynZpEKrR2g.png)
+![](https://63ckz2pq4g240d5ni28x09ke-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/banner-4-3.png)
 
 The hypothetical commercial context that guides the project is basically to meet the request made by the CFO to the managers of each store. The request consisted of the revenue forecasts of the stores for the next six weeks because he wanted to reform the stores and wanted based on the amount of sales after six weeks of the store.
 
@@ -45,9 +45,8 @@ This project aimed to order a potential client list by propensity score, decreas
 This project aims is to create a group of clients using clustering models.
 It was deployed on AWS, using Papermill to run the notebook and saving the dataset with clusters on a S3 bucket linked to Metabase for visualization
 
-### [Payment Method Analysis with A/B Testing - ONGOING](https://github.com/brunoschirmer/ab_testing )
-
-![](https://qualaroo.com/app/uploads/2019/08/ab@2x.png)
+### [Payment Method Analysis with A/B Testing - ONGOING](https://github.com/brunoschirmer/ab_testing ) 
+![]](https://qualaroo.com/app/uploads/2019/08/ab@2x.png)
 
 Currently working on this project. The development team created a payment method solution that autofills the clients data when making an order, and now, before lauching the new method into production, the operations team wishes to know if there actually is a difference between the two payments method. In other words, they want to know if the new payment method is driving a higher revenue. To better understand it, I am going to make an analysis using A/B testing principals to check if, and by how much, there is a difference in the amount spent by the customers based on the payment method they are set to use.
 
