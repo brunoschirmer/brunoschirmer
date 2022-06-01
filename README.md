@@ -50,4 +50,9 @@ It was deployed on AWS, using Papermill to run the notebook and saving the datas
 
 Currently working on this project. The development team created a payment method solution that autofills the clients data when making an order, and now, before lauching the new method into production, the operations team wishes to know if there actually is a difference between the two payments method. In other words, they want to know if the new payment method is driving a higher revenue. To better understand it, I am going to make an analysis using A/B testing principals to check if, and by how much, there is a difference in the amount spent by the customers based on the payment method they are set to use.
 
+### [Predicting the churning of clients at a bank - ONGOING](https://github.com/brunoschirmer/churn_prediction ) 
+![](https://www.retently.com/wp-content/uploads/2015/11/leading-causes-of-churn-1.png)
+
+Currently working on this project also. The company noticed a lot of non returning customers, and in order to better understand what was going op and come up with a solution, I was contacted by this company and hired as a consultant.
+
 
